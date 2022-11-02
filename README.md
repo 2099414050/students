@@ -1,2 +1,2 @@
-# students
-name  age sex id
+学生库
+姓名 学号 性别 籍贯 出生年月 成绩
